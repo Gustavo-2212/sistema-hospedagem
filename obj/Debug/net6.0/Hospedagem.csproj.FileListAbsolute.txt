@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Hospedagem\bin\Debug\net6.0\Hospedagem.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Hospedagem\bin\Debug\net6.0\Hospedagem.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Hospedagem\bin\Debug\net6.0\Hospedagem.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Hospedagem\bin\Debug\net6.0\Hospedagem.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Hospedagem\bin\Debug\net6.0\Hospedagem.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Hospedagem\obj\Debug\net6.0\Hospedagem.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Hospedagem\obj\Debug\net6.0\Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Hospedagem\obj\Debug\net6.0\Hospedagem.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Hospedagem\obj\Debug\net6.0\Hospedagem.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Hospedagem\obj\Debug\net6.0\Hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Hospedagem\obj\Debug\net6.0\Hospedagem.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Hospedagem\obj\Debug\net6.0\refint\Hospedagem.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Hospedagem\obj\Debug\net6.0\Hospedagem.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Hospedagem\obj\Debug\net6.0\Hospedagem.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Programação - UEMG\C#\Hospedagem\obj\Debug\net6.0\ref\Hospedagem.dll
